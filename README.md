@@ -1,4 +1,4 @@
-Para exucutar faça o download em zip, clique em extrair tudo e por fim clique duas vezes em "ABRIR_PDV.bat".
+Para executar faça o download em zip, clique em extrair tudo e por fim clique duas vezes em "ABRIR_PDV.bat".
 
 Patterns usados no projeto de PDV
 
